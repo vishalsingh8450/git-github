@@ -13,3 +13,5 @@ Git commands:
         git status
 6. so to add the file 
     the command is git add file name
+    7. to add multiple files 
+    the command is git add _A

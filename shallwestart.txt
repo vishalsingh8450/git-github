@@ -1,4 +1,4 @@
-a Git is a version control management system
+a Git isfff a version control management system
 a git hub is a code hosting platform for version control collabration
 
 
