@@ -26,3 +26,5 @@ Git commands:
     the command is git commit -a -m"hello vishal"
     
 9. git log :to take a look how git commit all the operation
+
+10. git rebaising
